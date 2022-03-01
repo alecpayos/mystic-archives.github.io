@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mystic Archives</title>
+	<atom:link href="https://alecpayos.github.io/example-wordpress.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alecpayos.github.io/example-wordpress.github.io/</link>
+	<description>Experience finest first-hand travel, booking, and adventures.</description>
+	<lastBuildDate>Tue, 01 Mar 2022 12:03:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>Country Roads: Tourists came home amidst pandemic</title>
+		<link>https://alecpayos.github.io/example-wordpress.github.io/2022/02/28/country-roads-tourists-came-home-amidst-pandemic/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=country-roads-tourists-came-home-amidst-pandemic</link>
+					<comments>https://alecpayos.github.io/example-wordpress.github.io/2022/02/28/country-roads-tourists-came-home-amidst-pandemic/#respond</comments>
+		
+		<dc:creator><![CDATA[alecpayos]]></dc:creator>
+		<pubDate>Mon, 28 Feb 2022 14:51:31 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://alecpayos.github.io/example-wordpress.github.io/?p=43</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent laoreet, odio nec ullamcorper euismod, dui nulla rhoncus lorem, vitae ultricies erat mi vel orci. Aenean dolor purus, ultricies ullamcorper molestie a, condimentum vitae massa. Aenean eu sapien sapien. Pellentesque tincidunt maximus turpis in posuere. Duis tincidunt, erat eu accumsan eleifend, urna justo pellentesque ex, non [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://alecpayos.github.io/example-wordpress.github.io/2022/02/28/country-roads-tourists-came-home-amidst-pandemic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mysterious Green</title>
+		<link>https://alecpayos.github.io/example-wordpress.github.io/2022/02/28/mysterious-green/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mysterious-green</link>
+					<comments>https://alecpayos.github.io/example-wordpress.github.io/2022/02/28/mysterious-green/#respond</comments>
+		
+		<dc:creator><![CDATA[alecpayos]]></dc:creator>
+		<pubDate>Mon, 28 Feb 2022 14:51:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://alecpayos.github.io/example-wordpress.github.io/?p=163</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent laoreet, odio nec ullamcorper euismod, dui nulla rhoncus lorem, vitae ultricies erat mi vel orci. Aenean dolor purus, ultricies ullamcorper molestie a, condimentum vitae massa. Aenean eu sapien sapien. Pellentesque tincidunt maximus turpis in posuere. Duis tincidunt, erat eu accumsan eleifend, urna justo pellentesque ex, non [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://alecpayos.github.io/example-wordpress.github.io/2022/02/28/mysterious-green/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Liquor Store Blues</title>
+		<link>https://alecpayos.github.io/example-wordpress.github.io/2022/02/28/grab-a-drink-well-filtered-honey-liquor/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=grab-a-drink-well-filtered-honey-liquor</link>
+					<comments>https://alecpayos.github.io/example-wordpress.github.io/2022/02/28/grab-a-drink-well-filtered-honey-liquor/#respond</comments>
+		
+		<dc:creator><![CDATA[alecpayos]]></dc:creator>
+		<pubDate>Mon, 28 Feb 2022 14:45:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://alecpayos.github.io/example-wordpress.github.io/?p=165</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent laoreet, odio nec ullamcorper euismod, dui nulla rhoncus lorem, vitae ultricies erat mi vel orci. Aenean dolor purus, ultricies ullamcorper molestie a, condimentum vitae massa. Aenean eu sapien sapien. Pellentesque tincidunt maximus turpis in posuere. Duis tincidunt, erat eu accumsan eleifend, urna justo pellentesque ex, non [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://alecpayos.github.io/example-wordpress.github.io/2022/02/28/grab-a-drink-well-filtered-honey-liquor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
